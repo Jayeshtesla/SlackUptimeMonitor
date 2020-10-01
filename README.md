@@ -7,7 +7,7 @@
 
 ## Configuration
 
-### Step 1 - Get the script
+### Step 1 - Get the  genius script
 
 Simply copy paste the script uptimemonitor.py into your server. After you test it add it to cron with your preferred check interval
 
@@ -19,7 +19,7 @@ $service cron restart
 $tail -f /root/uptimenotifier.log
 ~~~~
 
-Note that the script is written in Python3.5.
+-Note that the script is written in Python3.5.
 
 ### Step 2 -  Setup the config variables
 
